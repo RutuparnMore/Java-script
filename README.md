@@ -1,0 +1,2 @@
+# Java-script
+practicing javascript
